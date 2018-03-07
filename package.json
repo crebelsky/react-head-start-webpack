@@ -1,8 +1,7 @@
 {
   "name": "react-head-start-webpack",
   "version": "0.0.1",
-  "description": "React App bootstrap with Server Side Rendering, Code Splitting, Hot Reloading, Redux and React
-  Router based on https://github.com/gregtillbrook/react-head-start",
+  "description": "React App bootstrap with Server Side Rendering, Code Splitting, Hot Reloading, Redux and React Router based on https://github.com/gregtillbrook/react-head-start",
   "author": "Christian Rebelsky",
   "engines": {
     "node": ">=8"
