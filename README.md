@@ -2,7 +2,7 @@
 
 A React App bootstrap with Server Side Rendering, Code Splitting, Hot Reloading, Redux and React Router.
 
-[![npm](https://david-dm.org/crebelsky/react-head-start-webpack.svg)](https://david-dm.org/crebelsky/react-head-start-webpack.svg)
+[![Dependency Status](https://david-dm.org/crebelsky/react-head-start-webpack.svg)](https://david-dm.org/crebelsky/react-head-start-webpack.svg)
 [![Build Status](https://travis-ci.org/crebelsky/react-head-start-webpack.svg?branch=master)](https://travis-ci.org/crebelsky/react-head-start-webpack)
 [![GitHub license](https://img.shields.io/github/license/crebelsky/react-head-start-webpack.svg)](https://github.com/crebelsky/react-head-start-webpack/blob/master/LICENSE)
 
