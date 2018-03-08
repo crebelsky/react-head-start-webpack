@@ -14,6 +14,8 @@ A rich performant react app can have a lot of fiddly parts once you start adding
 
 # Highlights
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/crebelsky/react-head-start-webpack.svg)](https://greenkeeper.io/)
+
 ### 🚀 All the react goodness
  - [React v16](https://www.npmjs.com/package/react), [Redux](https://www.npmjs.com/package/redux), [React Router v4](https://www.npmjs.com/package/react-router) provide the core
  - ES2017+ standard modern javascript
