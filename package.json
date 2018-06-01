@@ -91,7 +91,7 @@
     "cheerio": "^1.0.0-rc.2",
     "copyfiles": "^2.0.0",
     "cross-env": "^5.1.1",
-    "cypress": "^2.1.0",
+    "cypress": "^3.0.0",
     "enzyme": "^3.2.0",
     "enzyme-adapter-react-16": "^1.1.0",
     "eslint": "^4.13.1",
