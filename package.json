@@ -72,7 +72,7 @@
   "devDependencies": {
     "@storybook/addon-actions": "^5.0.2",
     "@storybook/addon-links": "^5.0.2",
-    "@storybook/addon-notes": "^3.3.12",
+    "@storybook/addon-notes": "^5.0.2",
     "@storybook/addon-options": "^3.3.12",
     "@storybook/addons": "^5.0.2",
     "@storybook/react": "^3.3.12",
