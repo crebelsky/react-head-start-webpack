@@ -73,7 +73,7 @@
     "@storybook/addon-actions": "^5.0.5",
     "@storybook/addon-links": "^5.0.5",
     "@storybook/addon-notes": "^5.0.5",
-    "@storybook/addon-options": "^3.3.12",
+    "@storybook/addon-options": "^5.0.5",
     "@storybook/addons": "^5.0.5",
     "@storybook/react": "^5.0.5",
     "autoprefixer": "^8.1.0",
