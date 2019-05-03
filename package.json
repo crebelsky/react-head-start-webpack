@@ -60,7 +60,7 @@
     }
   },
   "dependencies": {
-    "caller-callsite": "^2.0.0",
+    "caller-callsite": "^4.0.0",
     "compression": "^1.7.1",
     "config": "^1.28.1",
     "cookie-parser": "^1.4.3",
