@@ -74,7 +74,7 @@
     "@storybook/addon-links": "^5.2.2",
     "@storybook/addon-notes": "^5.2.2",
     "@storybook/addon-options": "^5.2.2",
-    "@storybook/addons": "^3.3.12",
+    "@storybook/addons": "^5.2.2",
     "@storybook/react": "^3.3.12",
     "autoprefixer": "^8.1.0",
     "babel-cli": "^6.26.0",
