@@ -62,7 +62,7 @@
   "dependencies": {
     "caller-callsite": "^2.0.0",
     "compression": "^1.7.1",
-    "config": "^1.28.1",
+    "config": "^3.3.0",
     "cookie-parser": "^1.4.3",
     "express": "^4.16.2",
     "morgan": "^1.9.0",
